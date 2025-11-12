@@ -1,6 +1,5 @@
 ## Background 🛸
-- I'm an accounting student @ Ball State 🐦
-- No real projects because I'm not a CS major
+- Currently Pursuing a masters in Business Analytics at Purdue University
 - I don't know what I'm doing but stuff tends to work out
 
 ## Projects (if you can call them that)
